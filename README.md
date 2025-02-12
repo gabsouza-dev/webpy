@@ -92,4 +92,4 @@ Este projeto está sob a licença **MIT**. Sinta-se à vontade para usá-lo e mo
 
 ## ✨ Autor  
 
-Feito por [Seu Nome](https://github.com/gabsouza-dev) 💻💡
+Feito por [Gabriel Souza](https://github.com/gabsouza-dev) 💻💡
